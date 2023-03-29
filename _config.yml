@@ -20,3 +20,6 @@ icon: fas fa-pencil-alt
 #header-colours: 
 #  right: "#8a108c"
 #  left: "#cc580c"
+
+remote_theme: benc-uk/theme-msdark
+
