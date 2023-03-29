@@ -1,5 +1,5 @@
-# Dark MS Theme
-This is simple fork of the Cayman theme, modified with dark background and Microsoft fonts (Segoe UI) and colours, plus some bonus features.
+# Why I Do This?
+The reason why I am doing this webpage is because I want to show the projects that I have done over the years to the people with the help of the technology.
 
 ## Usage
 Enable GitHub pages on your repo. Set the theme in `_config.yml` (in root of your repo) as follows:
