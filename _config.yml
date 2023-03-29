@@ -1,9 +1,9 @@
 title: Carlos Montejano
-description: My Projects that I have make over the years
+description: The Projects that I have made over the years
 
-# Header buttons for downloads and link to GitHub repo 
-#show_downloads: false
-#hide_github: true
+Header buttons for downloads and link to GitHub repo 
+show_downloads: true
+hide_github: false
 
 # Can specify PNG favicon
 favicon: https://webiconspng.com/wp-content/uploads/2017/09/Microsoft-PNG-Image-83610.png
