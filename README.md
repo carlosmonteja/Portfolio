@@ -4,6 +4,8 @@ The reason why I am doing this webpage is because I want to show the projects th
 ## Usage
 Enable GitHub pages on your repo. Set the theme in `_config.yml` (in root of your repo) as follows:
 ```
+---
+
 remote_theme: benc-uk/theme-msdark
 ```
 
