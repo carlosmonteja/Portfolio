@@ -1,13 +1,5 @@
 # Why I Do This?
-The reason why I am doing this webpage is because I want to show the projects that I have done over the years to the people with the help of the technology.
-
-## Usage
-Enable GitHub pages on your repo. Set the theme in `_config.yml` (in root of your repo) as follows:
-```
----
-
-remote_theme: benc-uk/theme-msdark
-```
+The reason why I am doing this webpage is because I want to show the projects that I have done over the years to the people with the help of the technology. Pd. I also want to learn how to make web pages.
 
 ## Features
 There are a few features and options beyond the basic Cayman theme
