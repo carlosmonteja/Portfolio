@@ -1,17 +1,17 @@
 title: Carlos Montejano
 description: The Projects that I have made over the years
 
-Header buttons for downloads and link to GitHub repo 
-show_downloads: true
-hide_github: false
+# Header buttons for downloads and link to GitHub repo 
+show_downloads: false
+hide_github: true
 
 # Can specify PNG favicon
 favicon: https://webiconspng.com/wp-content/uploads/2017/09/Microsoft-PNG-Image-83610.png
 
 # Theme supports custom buttons
 buttons:
-  - text: Test Header Button
-    href: http://example.net
+  - text: Social Media
+    href: https://linktr.ee/carlosmontejano
 
 # Icon shown in header. From Fontawesome https://fontawesome.com/icons?m=free
 icon: fas fa-pencil-alt
